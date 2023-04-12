@@ -1,10 +1,4 @@
-[Machine Learning for Robotics II](https://corsi.unige.it/en/off.f/2022/ins/60241)<br>
-**Programmer(s):** [Ankur Kohli](https://github.com/ankurkohli007)<br>
-[M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635)<br>
-[University of Genoa (UniGe)](https://unige.it/en)<br>
-
-
-
+# A2C_PPO_Reinforcement_Learning_for_Lunar-Lander_Problem_Optimization
 <br>
 <br>
 Reinforcement learning (RL) has shown great potential for robotic applications, particularly in tasks where the robot must learn from interaction with the environment and adapt to changing conditions. In RL, the robot learns a policy or set of behaviors that maximize a reward signal provided by the environment, rather than being explicitly programmed with a set of rules or actions.
